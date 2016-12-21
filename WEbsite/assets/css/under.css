@@ -1,0 +1,15 @@
+#wrap-content{
+/*	background-size: cover;
+	background-repeat: no-repeat;*/
+	background-color: rgba(255,255,255, 0.8);
+/*	background-image: url(C:/Users/User/Desktop/TeamWork-second-branch/WEbsite/assets/img/imager.png);
+*/}
+#content{
+	margin-left: 50px;
+}
+body{
+	background-image-position: fixed;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-image: url(../../assets/img/imager.png);
+}
