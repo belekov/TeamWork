@@ -199,7 +199,7 @@ h1::after {
   FACULTY STYLES 
   ===================================*/
 #faculty-sec {
-    background-color: #000;
+    background-color: rgba(28, 43, 75, 1);
     color: #fff;
 }
 
@@ -268,4 +268,14 @@ h1::after {
     text-align:right;
     color:#fff;
     font-size:15px;
+}
+.divider1{
+    background-color: white;
+    padding-top: 50px;
+    height: 250px;
+    width: 100%;
+}
+#lang{
+    background-image: url(assets/img/rus.png);
+    background-size: 100% 100%;
 }
